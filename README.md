@@ -1,7 +1,11 @@
 • 👋 Hi, I’m a junior level web developer 
+
 • 🌱 I’m currently learning advance javascript
+
 • 👨‍💻 All of my projects are available at https://shahvishalportfolio.netlify.app/
+
 • 💬 Ask me about Web Development
+
 • 📫 How to reach me: vishalshah452003@gmail.com
 
 
