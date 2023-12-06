@@ -7,7 +7,7 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: vishalshah452003@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1pbfe_0JO-y6Ws-z7aoYTcYVczc8eJm52/view?usp=sharing). 
-- ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ I believe a perfect cup of coffee can be the ultimate solution for any stress.
 
 ## 🛠️ My favorite tools
 
