@@ -1,15 +1,12 @@
 # Welcome to [Vishal Shah's](https://github.com/Vishalshah007) profile! <a href="https://github.com/Vishalshah007"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-
-• 👋 Hi, I’m a junior level web developer 
-
-• 🌱 I’m currently learning advance javascript
-
-• 👨‍💻 All of my projects are available at https://shahvishalportfolio.netlify.app/
-
-• 💬 Ask me about Web Development
-
-• 📫 How to reach me: vishalshah452003@gmail.com
+### Talking about Personal Stuffs:
+- 👋 Hi, I’m a junior level web developer 
+- 🌱 I’m currently learning advance javascript
+- 👨‍💻 All of my projects are available at https://shahvishalportfolio.netlify.app/
+- 💬 Ask me about Web Development
+- 📫 How to reach me: vishalshah452003@gmail.com
+- ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 
 <!---
