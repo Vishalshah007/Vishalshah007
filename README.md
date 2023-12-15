@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at https://shahvishalportfolio.netlify.app/
 - 💬 Ask me about Web Development
 - 📫 How to reach me: vishalshah452003@gmail.com
-- 📝 [Resume](https://drive.google.com/drive/u/1/home). 
+- 📝 [Resume](https://drive.google.com/file/d/1n-boUyOJqMHPsivao1j02Y7bDurhedeX/view?usp=drive_link). 
 - ☕ I believe a perfect cup of coffee can be the ultimate solution for any stress.
 
 ## 🛠️ My favorite tools
