@@ -2,6 +2,7 @@
 
 ### Talking about Personal Stuffs:
 - 👋 Hi, I’m a junior level web developer 
+- 🌍 I'm based in Gujarat, India
 - 🌱 I’m currently learning advanced javascript
 - 👨‍💻 All of my projects are available at https://shahvishalportfolio.netlify.app/
 - 💬 Ask me about Web Development
@@ -66,7 +67,17 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Vishalshah007"><img src="https://github-readme-stats.vercel.app/api?username=Vishalshah007&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="Vishalshah007's GitHub stats" /></a>
+
+<a href="http://www.github.com/Vishalshah007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalshah007&stroke=22c55e&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=22c55e&currStreakLabel=a855f7&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+
+<a href="http://www.github.com/Vishalshah007"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vishalshah007&bg_color=ffffff&color=22c55e&line=6366f1&point=22c55e&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Vishalshah007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalshah007&langs_count=10&title_color=a855f7&text_color=22c55e&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <!---
 Vishalshah007/Vishalshah007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
