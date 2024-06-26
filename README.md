@@ -4,7 +4,7 @@
 - 👋 Hi, I’m a junior level web developer 
 - 🌍 I'm based in Gujarat, India
 - 🌱 I’m currently learning advanced javascript
-- 👨‍💻 All of my projects are available at https://shahvishalportfolio.netlify.app/
+- 👨‍💻 All of my projects are available at https://shahvishal.netlify.app/
 - 💬 Ask me about Web Development
 - 📫 How to reach me: vishalshah452003@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1fXmO3unxE7gcPb-IQu7e39mR_q1M8ywq/view?usp=sharing). 
