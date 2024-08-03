@@ -3,7 +3,7 @@
 ### Talking about Personal Stuffs:
 - 👋 Hi, I’m a junior level web developer 
 - 🌍 I'm based in Gujarat, India
-- 🌱 I’m currently learning advanced javascript
+- 🌱 I’m currently learning advanced React Js
 - 👨‍💻 All of my projects are available at https://shahvishal.netlify.app/
 - 💬 Ask me about Web Development
 - 📫 How to reach me: vishalshah452003@gmail.com
