@@ -1,6 +1,6 @@
 # Welcome to [Vishal Shah's](https://github.com/Vishalshah007) profile! <a href="https://github.com/Vishalshah007"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ### Talking about Personal Stuff:
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=https://github.com/Vishalshah007)
 - 👋 Hi, I’m a junior-level web developer 
 - 🌍 I'm based in Gujarat, India
 - 🌱 I’m currently learning advanced React Js
