@@ -72,11 +72,11 @@
 ### <b>My GitHub Stats</b>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalshah007" alt="vishalshah007" /></a>
 
-<a href="http://www.github.com/Vishalshah007"><img src="https://github-readme-stats.vercel.app/api?username=Vishalshah007&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="Vishalshah007's GitHub stats" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalshah007&show_icons=true&locale=en&layout=compact" alt="vishalshah007" /></p>
 
-<a href="http://www.github.com/Vishalshah007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalshah007&stroke=22c55e&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=22c55e&currStreakLabel=a855f7&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalshah007&show_icons=true&locale=en" alt="vishalshah007" /></p>
 
-<a href="https://github.com/Vishalshah007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalshah007&langs_count=10&title_color=a855f7&text_color=22c55e&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalshah007&" alt="vishalshah007" /></p>
 <!---
 Vishalshah007/Vishalshah007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
