@@ -69,7 +69,7 @@
 
 ## 🏅 Badges
 
-<b>My GitHub Stats</b>
+### <b>My GitHub Stats</b>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalshah007" alt="vishalshah007" /></a>
 
 <a href="http://www.github.com/Vishalshah007"><img src="https://github-readme-stats.vercel.app/api?username=Vishalshah007&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="Vishalshah007's GitHub stats" /></a>
