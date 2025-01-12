@@ -3,11 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=Vishalshah007)
 - 👋 Hi, I’m a junior-level web developer 
 - 🌍 I'm based in Gujarat, India
-- 🌱 I’m currently learning advanced React Js
+- 🌱 I’m currently learning new technologies
 - 👨‍💻 All of my projects are available at https://shahvishal.netlify.app/
-- 💬 Ask me about Web Development
-- 📫 How to reach me: vishalshah452003@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1QHIbwz2SUInZP_9rEnHj3aS9v-6ZqpTT/view?usp=sharing).
+- 💬 Ask me about web design or development
+- 📫 How to reach me vishalshah452003@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/1QHIbwz2SUInZP_9rEnHj3aS9v-6ZqpTT/view?usp=sharing)
 - ☕ I believe a perfect cup of coffee can be the ultimate solution for any stress.
 
 ## 🛠️ My favorite tools
