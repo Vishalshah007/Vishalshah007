@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at https://shahvishal.netlify.app/
 - 💬 Ask me about web design or development
 - 📫 How to reach me vishalshah452003@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1QHIbwz2SUInZP_9rEnHj3aS9v-6ZqpTT/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1-hv-Id6vYqQ16GheX_xXAxetyiANXqjb/view?usp=sharing)
 - ☕ I believe a perfect cup of coffee can be the ultimate solution for any stress.
 
 ## 🛠️ My favorite tools
